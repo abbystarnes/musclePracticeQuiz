@@ -1,0 +1,43 @@
+# Muscle Lab Answer Key
+1. Orbicularis Oculi
+2. Zygomaticus Major
+3. Orbicularis Oris
+4. Buccinator
+5. Masseter
+6. Temporalis
+7. Sternocleidomastoid
+8. External Intercostals
+9. Internal Intercostals
+10. Diaphragm
+11. External Oblique
+12. Internal Oblique
+13. Transversus Abdominis
+14. Rectus Abdominis
+15. Trapezius
+16. Serratus Anterior
+17. Pectoralis Major
+18. Latissimus Dorsi
+19. Deltoid
+20. Biceps Brachii
+21. Triceps Brachii
+22. Brachialis
+23. Brachioradialis
+24. Iliopsoas
+25. Gluteus Maximus
+26. Gluteus Medius
+27. Gluteus Minimus
+28. Trensor Fascia Lata
+29. Pectineus
+30. Adductor Longus
+31. Gracilis
+32. Rectus Femoris
+33. Vastus Lateralis
+34. Vastus Medialis
+35. Vastus Intermedius
+36. Sartorius
+37. Biceps Femoris
+38. Semitendinosus
+39. Semimembranosus
+40. Tibialis Anterior
+41. Gastrocnemius
+42. Soleus
